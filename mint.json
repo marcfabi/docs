@@ -7,30 +7,30 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#fd6b61",
+    "light": "#fd6b61",
+    "dark": "#fd6b61",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#fd6b61",
+      "to": "#fd6b61"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "support@fabi.ai"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Log in",
+    "url": "https://app.fabi.ai/"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+  // "tabs": [
+  //   {
+  //     "name": "API Reference",
+  //     "url": "api-reference"
+  //   }
+  // ],
   "anchors": [
     {
       "name": "Documentation",
