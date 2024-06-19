@@ -32,14 +32,9 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://www.fabi.ai/blog"
     }
   ],
   "navigation": [
@@ -47,7 +42,8 @@
       "group": "Getting started",
       "pages": [
         "introduction",
-        "connect_data_source"
+        "getting_started/uploading_files",
+        "getting_started/connect_data_sources"
       ]
     },
     {
