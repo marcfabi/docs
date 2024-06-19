@@ -44,27 +44,25 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting started",
       "pages": [
         "introduction",
         "connect_data_source"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Data analysis",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "ai_data_analysis",
+        "sql_and_python"
       ]
     },
-    {
-      "group": "API Documentation",
+        {
+      "group": "Building reports",
       "pages": [
-        "api-reference/introduction"
+        "filters_and_inputs",
+        "publishing_reports",
+        "scheduling_reports"
       ]
     },
     {
@@ -77,8 +75,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/hqfabi",
+    "linkedin": "https://www.linkedin.com/company/fabi-ai"
   }
 }
