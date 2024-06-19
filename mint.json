@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#fd6b61",
-    "light": "#fd6b61",
-    "dark": "#fd6b61",
+    "primary": "#FC4F42",
+    "light": "#FC4F42",
+    "dark": "#FC4F42",
     "anchors": {
-      "from": "#fd6b61",
-      "to": "#fd6b61"
+      "from": "#FC4F42",
+      "to": "#FC4F42"
     }
   },
   "topbarLinks": [
@@ -49,16 +49,15 @@
     {
       "group": "Data analysis",
       "pages": [
-        "ai_data_analysis",
-        "sql_and_python"
+        "data_analysis/ai_data_analysis",
+        "data_analysis/sql_and_python"
       ]
     },
         {
       "group": "Building reports",
       "pages": [
-        "filters_and_inputs",
-        "publishing_reports",
-        "scheduling_reports"
+        "building_reports/filters_and_inputs",
+        "building_reports/publishing_reports"
       ]
     },
     {
